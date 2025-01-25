@@ -1,0 +1,329 @@
+https://erp.akgec.ac.in/
+
+
+
+
+
+
+
+
+
+
+
+
+Learn! | Let's make amazing Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login to your account
+
+
+
+                        {{lblerror}}
+                    
+
+
+
+Username
+
+
+
+
+
+
+Password
+
+
+
+
+
+
+
+                        Login 
+
+
+
+
+Forgot your password ?
+
+                        no worries, click 
+                            here
+                        
+                        to reset your password.
+                    
+
+
+
+Forget Password ?
+
+
+                        Enter your username and Date Of Birth address below to reset your password.
+                    
+
+
+
+                        Enter your Admission No. and Date Of Birth below to reset your password.
+                    
+
+
+
+                        {{forgeterror}}
+                    
+
+
+
+Students
+
+
+Faculty/Admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back
+                    
+
+                        Submit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        {{lblerror}}
+                    
+
+
+                        Login
+                    
+
+Let's do a quick verification
+This forget password attempt seems suspicious. To finish forget password process please enter the verification code we sent to your mobile number and enter password to change the password.
+
+
+
+Verify OTP
+
+
+
+
+
+ New Password
+
+
+
+
+
+ Confirm Password
+
+
+
+
+
+
+
+
+                                    Submit
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Welcome to Ken Institute’s Learning  Management System
+            
+
+                Welcome to Ken Institute’s Learning Management System
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                {{lblerror}}
+                            
+
+
+                            Access your learning journey with ease. Log in to get started.
+                        
+
+Username*
+
+
+
+
+
+Password* 
+
+
+
+
+
+
+                                Login
+                                
+
+
+
+Forgot your password ?
+
+                                Click 
+                                    here
+                                
+                                to reset.
+                            
+
+
+
+
+
+
+
+
+Forget Password ?
+
+
+                                Enter your Email and Date Of Birth address below to reset your password.
+                            
+
+
+
+                                Enter your Enrollment No. and Date Of Birth below to reset your password.
+                            
+
+
+
+                                {{forgeterror}}
+                            
+
+
+
+Students
+
+
+Faculty/Admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Submit
+                                
+
+
+
+
+Back To Login
+
+
+
+
+
+
+
+
+
+                Develop a passion for learning. If you do, you will never cease to grow. — Anthony J. D’Angelo
+            
+
+                Develop a passion for learning. If you do,
+            
+
+                you will never cease to grow. — Anthony J. D’Angelo
+            
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,570 @@
+http://akgec.almaconnect.com/
+
+
+
+
+
+
+
+Find AKGEC Ghaziabad Alumni Members Details Online | AlmaConnect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {{currentInstitute.name}}
+    
+
+      {{(currentInstitute.type == 'Institution::Company') ? 'Alumni Network' : currentInstitute.ref_location}}
+    
+
+
+
+
+
+
+
+
+
+
+
+        {{form_header}}
+      
+
+        {{heading}}
+      
+
+
+      The Private Alumni Network for Syneos Health Consulting
+
+        {{capitalize(currentInstitute.alumni_text)}}, {{capitalize(currentInstitute.students_text)}} & {{capitalize(currentInstitute.faculty_text)}} 
+        of {{currentInstitute.title}}
+      
+
+
+      The Private Alumni Network for Alumni, Students & Faculty
+    
+
+      {{subheading}}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Login with One Time Password (OTP)
+    
+
+
+
+    Browse Alumni
+  
+
+    Search Network
+  
+
+    Logout
+  
+
+
+
+  By signing up, you agree to our 
+terms and conditions
+  and
+  privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Forgot Password?
+  
+
+
+
+  By signing up, you agree to our 
+terms and conditions
+  and
+  privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Forgot Password?
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Login with Password
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Login
+  
+
+
+
+
+
+
+About
+ | 
+
+Alumni
+ | 
+
+Jobs
+ | 
+FAQ
+ | 
+Privacy
+ | 
+Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {{currentInstitute.name}}
+    
+
+      Alumni Network
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Login with One Time Password (OTP)
+    
+
+
+
+    Browse Alumni
+  
+
+    Search Network
+  
+
+    Logout
+  
+
+
+
+  By signing up, you agree to our 
+terms and conditions
+  and
+  privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Forgot Password?
+  
+
+
+
+  By signing up, you agree to our 
+terms and conditions
+  and
+  privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Forgot Password?
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Login with Password
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign up
+  
+
+    Login
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          {{currentInstitute.name}}
+        
+
+          {{currentInstitute.ref_location}}
+        
+
+
+
+
+
+
+
+
+
+
+            Nobody is bothered about an institution more than its alumni
+          
+
+            N. R. Narayan Murthy
+          
+
+
+
+
+
+
+
+
+
+              Account Details
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signup with your personal account
+          
+
+
+
+
+
+            Please use your personal email address here
+          
+
+
+
+
+
+
+
+
+            By signing up, you agree to our
+            terms and conditions
+            and
+            privacy policy
+
+
+
+
+
+            You have already registered with the email id {{userForm.email}}. Please try
+            
+              signing in.
+              Forgot Password?
+            
+              Click here
+             to reset it.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

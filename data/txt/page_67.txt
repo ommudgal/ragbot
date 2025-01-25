@@ -1,0 +1,1254 @@
+https://www.akgec.ac.in/cse-journal-gjcs/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Glimpse-Journal of Computer Science - AJAY KUMAR GARG ENGINEERING COLLEGE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AJAY KUMAR GARG ENGINEERING COLLEGE(Affiliated to Dr. APJ Abdul Kalam Technical University, Lucknow, UP, College Code - 027)
+
+
+
+
+
+
+AKGEC ERP Login
+
+Admission Enquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MENUMENUABOUT
+
+
+
+
+
+Vision And MissionDirector GeneralDirectorManagementImportant FunctionariesApprovals by Statutory BodiesNBA AccreditationAICTE Approval Letters 
+
+
+Infrastructure/Visual Tour
+
+Academic ComplexHostelCentres Of ExcellenceFaith CentreSupport FacilitiesStationary ShopCollege Canteen 
+ 
+
+
+AKGEC Visual TourCentre of Excellence Visual TourMandatory DisclosureNIRF Data for RankingGrievance CommitteeOrganisation ChartTestimonialsGallery 
+ 
+
+DEPARTMENTS
+
+
+
+
+
+Applied Sciences & HumanitiesCivil EngineeringComputer Science and Engineering 
+
+
+Electronics and Communication EngineeringElectrical and Electronics EngineeringInformation Technology 
+
+
+Mechanical EngineeringElectronics and Instrumentation EngineeringMaster of Computer Applications 
+ 
+
+ACADEMICS
+
+
+
+
+
+Academic CalendarList of HolidaysAKGEC Digital SchoolSyllabus 
+
+
+Policy and Process for Refund of Caution MoneyEducational Verification 
+
+
+Issuance of certificates for passout students 
+ 
+
+ADMISSIONS
+
+
+
+
+
+Courses OfferedAdmissionFee Structure for New Students 
+
+
+Admissions through UPTAC CounsellingFee Structure for Existing StudentsFee Refund Norms 
+
+
+ScholarshipAdmission Brochure 2024-25Information Booklet 2024-25 
+ 
+
+R&D
+
+
+
+
+
+R & D PolicyJournal PapersConference PapersBook/Book ChaptersPatentFunded Projects 
+
+
+ConsultancyResearch IncentivesAKGEC Journals
+
+AKGEC International Journal of TechnologyGlimpse Journal of Computer Science 
+ 
+
+
+Research & Development CentresConferencesFDPsMoUs 
+ 
+
+LIFE@AKGEC
+
+Societies
+
+Departmental Societies
+
+ConatusNirmaanOorjaPhoenixSamveg 
+Extra-Curricular Societies
+
+EuphonyFootprintsHorizonGoonjRenaissanceTaalVervePhotography and Media Club 
+Student Chapters
+
+CSIIndian Concrete InstituteRobotics ClubIEEEISTESAE India 
+ 
+EventsSocial Responsibilities
+
+Unnat Bharat Abhiyaan & NSSNature ClubAdarsh Vikas KendraBlood Donation CampEco Friendly EnvironmentSDP For Village StudentsSDP Under PMKVY 
+HostelsMediclaim
+ACHIEVEMENTS
+
+
+
+
+
+CFC Foundation StoneDr. R.K Agarwal featured in 100 Great IITiansWorld Bank ConsultantAICTE NominationTraining Program GPP 
+
+
+Faculty AchievementsStudent Achievements (Technical)Student Achievements (Extra Curricular)Alumni Achievements 
+
+
+College AwardsChancellor’s AwardAKGECians in Merit ListAcademic Merit Awards 
+ 
+
+CENTRES OF EXCELLENCEPLACEMENTS
+
+T&P DepartmentOur RecruitersPlacement RecordsPlacement HighlightsPlacement BrochurePlacement Booklet 2022T&P Programmes
+COLLEGE PUBLICATIONS
+
+Information Booklet 2024-25Brochure AKGECCollege Magazine (Sampark)CSR BrochureECO-friendly brochureEmergence (Value Education Cell)
+VE CELL
+
+
+
+
+
+Director General MessageAbout VE CellTransformative SharingParticipation in Societal DevelopmentGalleryUpcoming Events 
+
+
+Activities
+
+Faculty/Staff Development Programs (FDPs/SDPs)Student Development Programs (SDPs)UHV Departmental SeminarsGuest Lectures/WebinarsConceptual EnrichmentNature ClubFuture Forward : Sustainability ClubExtension Activities
+
+Teachers Orientation Program 
+UHV Projects
+
+SPC (Sustainable Production Centre)Samriddhi Pravaah 
+ 
+ 
+ 
+
+ALUMNI
+
+Alumni
+LIBRARY
+
+Library
+IQACAKGEC ERP LOGINCAREERS/VACANCIES 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Glimpse-Journal of Computer Science»
+
+ 
+
+
+
+
+
+Glimpse-Journal of Computer Science 
+
+
+
+
+
+
+
+ About Patron in Chief Editorial Board Aim and Scope Paper Submission ArchivesContact us 
+
+The Glimpse Journal of Computer Science (GJCS) is an international forum for computer scientists and engineers involved in all aspects of computer science and technology to publish high quality, refereed papers.
+The journal offers survey and review articles from experts in the field, promoting insight and understanding of the state of the art, and trends in technology. The journal aims to provide platform for researcher, academicians, developers, industry experts, and authors interested in state-of-the art activities via publishing their research-based papers, articles and case studies on latest trend in computing. While the journal presents mostly previously unpublished materials, selected conference papers with exceptional merit are also published, at the discretion of the editors.
+Coverage includes cloud computing, computer system and architecture, artificial intelligence and pattern recognition, computer networks and distributed computing, computer graphics and multimedia, software systems, data management and data mining, theory and algorithms, emerging areas, and many more.
+Instruction to Authors / Author Guidelines: Authors can format their paper as per the IEEE template available at TemplateSubmission Details: Email your manuscript to this email-id: prasadrajesh@akgec.ac.inReview Policy: All submissions to this journal are first reviewed for completeness and only then sent to be assessed by an Editor who will decide whether they are suitable for peer review. Where an Editor is on the author list or has any other competing interest regarding a specific manuscript, another member of the Editorial Board will be assigned to oversee peer review. Editors will consider the peer-reviewed reports when making a decision, but are not bound by the opinions or recommendations therein. A concern raised by a single peer reviewer or the Editor themself may result in the manuscript being rejected. Authors receive peer review reports with the editorial decision on their manuscript.
+Plagiarism Policy:The journal is strictly against any unethical act of copying or plagiarism in any form. Plagiarism is said to have occurred when large portions of a manuscript have been copied from existing previously published resources.
+Manuscripts found to be plagiarized during the stages of review are out-rightly rejected and not considered for publication in the journal.
+Reuse of words must be kept to a minimum, credited, or quoted in the text, and all sources must be cited when they are used. The journal uses the Similarity Check service provided by Turnitin to provide editors with a user-friendly tool to help detect plagiarism. It does this by comparing manuscripts with both a web repository and the CrossRef database. A text similarity below 20% is acceptable by the journal.
+
+
+JOURNAL PARTICULARS
+
+
+
+
+Title
+GLIMPSE – Journal of Computer Science
+
+
+Starting Year
+2022
+
+
+Frequency
+2
+
+
+ISSN
+3048-4618
+
+
+Publisher
+Department of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
+
+
+Chief Editor
+Dr. Rajesh Prasad
+
+
+Copyright
+Department of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
+
+
+Publication URL
+https://www.akgec.ac.in/cse-journal-gjcs/
+
+
+Language
+English
+
+
+Publication Format
+Online
+
+
+Phone No.
++919667896459
+
+
+Email ID
+prasadrajesh@akgec.ac.in
+
+
+Mobile No.
++919667896459
+
+
+Address
+27th KM Milestone, Delhi – Meerut Expy, Ghaziabad-201009, Uttar Pradesh
+
+
+
+
+Dr. R. K. AgarwalB.Tech (IIT Kanpur), M.S. (CIT, Cranfield, UK) and PhD (IISc Bangalore)
+
+
+Dr. R.K. Agarwal has an exceptionally brilliant academic background with B.Tech from IIT Kanpur, India, M.S. from CIT, Cranfield, UK and PhD from IISc Bangalore, India. During his illustrious career of nearly three decades in the Indian Air Force and Defence Research & Development Organization (DRDO), he has held various key appointments including Chief Engineering Officer of an Operational Base, Director (Engg) at Air HQ and Project Director at Centre for Airborne Systems. His vast managerial, administrative, research and academic experience includes teaching assignments at Air Force Technical College and nine years of pioneering R&D work on the prestigious AWACS project in DRDO. He has also been a member of the Aeronautical Research & Development Board (ARDB) panel for approval and review of sponsored research projects at various centres of Excellence established at IITs and CSIR Laboratories.
+He is the recipient of the coveted Royal Aeronautical Society (UK) award for academic excellence at CIT and a citation with cash award by DRDO for his contribution to the design and development of Airborne Early Warning aircraft, culminating in its maiden flight.
+After taking voluntary retirement in 2004, Dr. Agarwal decided to contribute in the field of technical education and has been the Director of Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad since then. He has been persistently working towards setting new benchmarks in academic excellence as well as industry–academia interface to make the students globally competitive and employable. During his tenure, the college has not only been consistently maintaining exceptional results and placements but has also made significant progress in research and industry relevant consultancy projects. A number of initiatives and collaborative ventures with eminent multi-national companies have led to establishment of many multi-disciplinary, high technology industry relevant facilities. These include India’s first KUKA Industrial Robotics Training Centre, NI-LabVIEW Academy, Bosch Rexroth Centre of Competence in Automation Technologies, Janatics Industrial Pneumatic Knowledge Centre and Mitsubishi Electric India.
+The college has also achieved the unique distinction of receiving the Academic Excellence Award for Best Engineering College in Uttar Pradesh Technical University (UPTU) for two successive years under his able guidance.
+He has also contributed in bringing about a culture of corporate social responsibility in academic institutions. The social activities initiated by him include running a free primary school in the college, adopting a municipal corporation school in a nearby village, providing tuition fee subsidy to children of class IV employees, donating computers to spread computer literacy and generously contributing for relief work after natural calamities. Involvement in these activities makes the students conscious of their civic and social responsibilities. He places special emphasis on all round development with focus on inculcating self-discipline, good moral values, ethics, work culture and a positive attitude to make the students not just competent professionals but also good citizens and responsible members of the society.
+His wide ranging experience, vision and dynamism have infused inspiration and provided a road map for academic institutions to achieve the zenith of excellence in all fields of activities.
+Dr. R.K. Agarwal’s extraordinary inspiring-vision catapulted AKGEC to number one position for all time to come. He took the momentous decision in 2010 to launch this biannual publication to nurture creativity and encourage innovations.
+
+
+Editorial Board
+
+
+Executive EditorDr. Anu ChaudharyHoD, Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: chaudharyanu@akgec.ac.inProfile Link: https://www.akgec.ac.in/wp-content/uploads/2024/01/HODCSE_Profile.pdf
+Editor-in-chiefDr. Rajesh PrasadDepartment of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: prasadrajesh@akgec.ac.inProfile Link: https://www.akgec.ac.in/wp-content/uploads/2023/04/Dr.-Rajesh-Prasad.pdf
+Associate EditorsDr. Shashank SahuDepartment of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: sahushashank@akgec.ac.inProfile Link: https://www.akgec.ac.in/wp-content/uploads/2023/04/Dr.-Shashank-Sahu.pdf
+Dr. Avdhesh GuptaDepartment of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: guptaavdhesh@akgec.ac.inProfile Link: https://www.akgec.ac.in/wp-content/uploads/2023/09/Dr.-Avdhesh-Gupta.pdf
+Dr. Sonam GuptaDepartment of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: guptasonam@akgec.ac.inProfile Link: https://www.akgec.ac.in/wp-content/uploads/2023/04/Dr.-Sonam-Gupta.pdf
+Dr. Santosh Kumar UpadhyayDepartment of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: upadhyaysantosh@akgec.ac.inProfile Link: https://www.akgec.ac.in/wp-content/uploads/2023/04/Dr.-Santosh-Kumar-Upadhyay.pdf
+Dr. Akhilesh VermaDepartment of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: vermaakhilesh@akgec.ac.inProfile Link: https://www.akgec.ac.in/wp-content/uploads/2023/04/Akhilesh-Verma-.pdf
+
+Glimpse Journal of Computer Science, is the official journal of the Department of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad. It publishes the work involved in all aspects of computer science, information technology and technology. Papers reporting original research and innovative applications from all parts of the world are welcome. Papers for publication in the journal are selected through rigorous peer review, to ensure originality, timeliness, relevance, and readability. While the journal emphasizes the publication of previously unpublished articles, selected extended conference papers with exceptional merit are also considered. The journal also seeks clearly written survey and review articles from experts in the field, to promote insightful understanding of the state-of-the-art and technology trends.
+Topics covered by the journal include but are not limited to:• Theoretical Computer Science• Information technology• Computer Architecture and Systems• Artificial Intelligence• Computer Networks and Distributed Computing• Computer Graphics and Multimedia• Software Systems• Data Management and Data Mining• Health informatics• Theory and Algorithms• Emerging Areas
+
+Submission guideline: Authors can format their paper as per the IEEE template available atTemplate
+Submit manuscript: Email your manuscript to this email-id: prasadrajesh@akgec.ac.in
+
+
+Volume-3 | 2024
+
+
+ Volume-3| Issue -2 July to DecemberGlimpse-Volume-3[Issue-2][JULY-DECEMBER]Cover Page
+
+
+
+S No.
+ 
+Volume-3| Issue -2[ July to December]
+Page No.
+
+
+1
+Paper Title:
+CLOUD COMPUTING UNVEILED: TRENDS, CHALLENGES, AND FUTURE DIRECTIONS
+4-9
+
+
+Authors
+Jaishree Jain
+
+
+2
+Paper Title:
+SECURABLE VIRTUAL STUDENT’SFEEDBACK SYSTEM TO PREVENT THEUNETHICAL COMMENTS
+10-13
+
+
+Authors
+Rakesh Kumar Yadav, Aayushi Bisaria, Neelesh Oli
+
+
+
+3
+Paper Title:
+ETHICS IN ARTIFICIAL INTELLIGENCE
+14-18
+
+
+Authors
+Vaishali Deshwal
+
+
+
+4
+Paper Title:
+STUDY OF MULTIMODAL EMOTION RECOGNITION: INTEGRATING FACIAL EXPRESSIONS, VOICE, AND PHYSIOLOGICAL SIGNALS FORENHANCED ACCURACY
+19-23
+
+
+Authors
+Surendra Kumar, Hema Rani
+
+
+
+5
+Paper Title:
+EXPLORING INTERIOR SPACE DESIGN IN THE ERA OF INTELLIGENT INTERNETENVIRONMENTS
+24-28
+
+
+Authors
+Ritika Dhyani, Rachana Singh Sisodia
+
+
+
+6
+Paper Title:
+ENHANCING POLICING EFFICIENCY: A MACHINE LEARNING-BASED CRIMEMANAGEMENT SYSTEM
+29-33
+
+
+Authors
+Neeharika Tripathi, Amrita Tiwari
+
+
+
+7
+Paper Title:
+TRANSFORMATIVE APPLICATIONS OFBLOCKCHAIN AND MACHINE LEARNINGIN HEALTHCARE: A REVIEW
+34-38
+
+
+Authors
+Anuradha Taluja, Harish Kumar, Vidhi Agarwal, Kanika Tomar, Shiva Garg
+
+
+
+8
+Paper Title:
+BIG IOT DATA ANALYTICS USING FOGCOMPUTING
+39-43
+
+
+Authors
+Manoj Kumar Srivastava, Beerbal Solanki, Updesh Kumar Jaiswal
+
+
+
+9
+Paper Title:
+ADVANCES IN SPEECH EMOTIONRECOGNITION: TECHNIQUES, CHALLENGES,AND APPLICATIONS
+44-48
+
+
+Authors
+Yogendra Narayan Prajapati, Arvind Goutam
+
+
+
+
+ Volume-3| Issue -1 January to June
+
+
+S No.
+ 
+Volume-3| Issue -1[ January to June]
+Page No.
+
+
+1
+Paper Title:
+Network Intrusion Detection system using Federated Learning
+4-9
+
+
+Authors
+Amrita Bhatnagar
+
+
+2
+Paper Title:
+A Melanoma skin cancer Diagnosis using Hybrid Feature-optimized msvm classification model on Dermotoscopic Images
+10-15
+
+
+Authors
+Mr Anuj kumar
+
+
+
+3
+Paper Title:
+Exploring the synergy: The intersection of IOI and Robotics in transforming industries and daily life
+16-20
+
+
+Authors
+Bhumica Verma, Mahima Saxena, Ritika Dhyani
+
+
+
+4
+Paper Title:
+Deep Learning’s Obstacles in Medical Image Analysis: Boosting trust and explainability
+21-24
+
+
+Authors
+Sachin Jain
+
+
+
+5
+Paper Title:
+Exploring the impact of machine learning algorithms on Cardiovascular health assessment
+25-28
+
+
+Authors
+Nishant kumar Pathak, Varun Kumar, Ashish Kumar
+
+
+
+6
+Paper Title:
+The day-after-tomorrow: On the performance of radio fingerprinting overtime
+29-31
+
+
+Authors
+Dr. Akhilesh verma
+
+
+
+7
+Paper Title:
+Novel mp3: The music with senses
+32-36
+
+
+Authors
+Kamna Singh
+
+
+
+8
+Paper Title:
+Beyond roll call: Harnessing RFID Technology for student’s attendance management
+37-43
+
+
+Authors
+Pushkal kumar Shukla, Ishika Shukla, Chirag Bhardwaj, Ayush Parashar
+
+
+
+9
+Paper Title:
+Fake News Detection techniques
+44-47
+
+
+Authors
+Shashank Sahu
+
+
+
+10
+Paper Title:
+Machine Learning Methods in Software Engineering – Review
+48-51
+
+
+Authors
+Vikas
+
+
+
+
+
+
+Volume-2 | 2023
+
+
+ Volume-2| Issue -2 July to December
+
+
+S No.
+ 
+Volume-2| Issue -2[ July to December]
+Page No.
+
+
+1
+Paper Title:
+Review of Network Security Measures and Threats: Recent developments and future research directions
+4-9
+
+
+Authors
+Anuj Kumar Dwivedi
+
+
+2
+Paper Title:
+The emergence of Data Science: Trasforming insights into action
+10-13
+
+
+Authors
+Shiva Tyagi, Riti Rathore
+
+
+
+3
+Paper Title:
+Message Security using PGP with two stage steganography
+14-18
+
+
+Authors
+Pronab Kumar Adhikari
+
+
+
+4
+Paper Title:
+Malicious URL Detection
+19-24
+
+
+Authors
+
+Rekha Baghel, Tarushi Khanna, Saatvik Rawat, Surbhi Saxena,
+Mohit Kumar Singh
+
+
+
+5
+Paper Title:
+Brain Tumor Detection Model Based CNN and Threshold Segmentation
+25-30
+
+
+Authors
+Jaishree Jain, Neeraj Sagar, Jatin Chauhan
+
+
+
+6
+Paper Title:
+A systematic review of wavelet tree compression techniques
+31-35
+
+
+Authors
+Pradeep Gupta, Dr Sonam Gupta
+
+
+
+7
+Paper Title:
+Human Behaviour Recognition through AI
+36-37
+
+
+Authors
+Swati Tomar, Anurag Gupta, Sajal Rastogi
+
+
+
+8
+Paper Title:
+Security issues in 5G Network
+38-40
+
+
+Authors
+Sharma Ji
+
+
+
+9
+Paper Title:
+Artificial Intelligence Based virtual Mouse using hand gestures
+41-45
+
+
+Authors
+Neerja Arora
+
+
+
+10
+Paper Title:
+Analysis of human sentiments using Machine Learning
+46-51
+
+
+Authors
+Ritu Sharma
+
+
+
+
+ Volume-2| Issue -1 January to June
+
+
+S No.
+ 
+Volume-2| Issue -1[ January to June]
+Page No.
+
+
+1
+Paper Title:
+Machine Learning Solutions to Polycystic Ovary Syndrome
+4-9
+
+
+
+Authors
+Kajal Gupta, Dr Rajesh Prasad
+
+
+
+2
+Paper Title:
+Efficient Allocation of Bandwidth & Congestion Avoidance during Data
+10-11
+
+
+
+Authors
+Yogendra. N Prajapati, Pronob K Adhikari
+
+
+
+3
+Paper Title:
+Asymmetric Multi-Core Architectures
+12-15
+
+
+
+Authors
+Santosh Kumar Upadhyay
+
+
+
+4
+Paper Title:
+Combining Steganography and Cryptography Techniques for securing Patient information
+16-18
+
+
+
+Authors
+Amrita Bhatnagar
+
+
+
+5
+Paper Title:
+A Melanoma Skin Cancer Diagnosis Using Hybrid Feature- Optimized MSVM Classification Model On Dermotoscopic Images
+19-24
+
+
+
+Authors
+Anuj Kumar
+
+
+
+6
+Paper Title:
+A Review of Parallel Approach Using Genetic Algorithms
+25-28
+
+
+
+Authors
+Manish Kumar
+
+
+
+7
+Paper Title:
+LOAN PREDICTION USING MACHINE LEARNING
+29-31
+
+
+
+Authors
+Megha Gupta, Anant Tyagi
+
+
+
+8
+Paper Title:
+Evaluation of Academic Performance of Student with Fuzzy Logic
+32-34
+
+
+
+Authors
+Ankita Rani
+
+
+
+9
+Paper Title:
+Predicting Heart Diseases Using Machine Learning Techniques
+35-37
+
+
+
+Authors
+Ashish Kumar, Sandeep Yadav
+
+
+
+
+
+
+Volume-1 | 2022
+
+
+ Volume-1| Issue -2 July to December
+
+
+S No.
+ 
+Volume-1| Issue -2[ July to December]
+Page No.
+
+
+1
+Paper Title:
+MACHINE LEARNING AND NATURAL LANGUAGE PROCESSING BASED COGNETIVE DISEASE PREDICTION MODEL FOR PREDICTION OF PSYCOLOGICAL DISEASES
+4-9
+
+
+
+Authors
+Vikas Kamra
+
+
+
+2
+Paper Title:
+A Brief introduction to AWS technology
+10-12
+
+
+
+Authors
+Vishal Jayaswal, Raguraj Singh
+
+
+
+3
+Paper Title:
+CLOUD COMPUTING SECURITY FUNDAMENTALS
+13-18
+
+
+
+Authors
+Pooja Sharma
+
+
+
+4
+Paper Title:
+INTEGRITY CHECK IN BIOMETRIC IMAGE
+19-23
+
+
+
+Authors
+Vishal Choudhary
+
+
+
+5
+Paper Title:
+A NEW ANTI-PHISHING TECHNIQUE
+24-26
+
+
+
+Authors
+Nishu Bansal
+
+
+
+6
+Paper Title:
+A MACHINE LEARNING BASESD HEALTHCARE DIAGNOSTIC MODEL
+27-31
+
+
+
+Authors
+Anurag Gupta
+
+
+
+7
+Paper Title:
+OPINION MINING IN R 
+32-34
+
+
+
+Authors
+Ayushi Gupta
+
+
+
+8
+Paper Title:
+SHIFT INVARIANCE IN UNMASKING NEO PLASMA
+35-37
+
+
+
+Authors
+Vaishali Rastogi
+
+
+
+9
+Paper Title:
+AN ANALYSIS OF CONTACT TRACING APPS FOR CONTROLLING VIRAL DISEASES
+38-41
+
+
+
+Authors
+Anjali Chauhan
+
+
+
+
+ Volume-1| Issue -1 January to June
+
+
+S No.
+ 
+Volume-1| Issue -1[ January to June]
+Page No.
+
+
+1
+Paper Title:
+Internet of Behaviour: A New Era of Data Collection
+4-6
+
+
+
+Authors
+Bihari Nandan Pandey
+
+
+
+2
+Paper Title:
+Computer Vision And Its Application Areas
+7-10
+
+
+
+Authors
+Neha Bagawari , Tarushi Khanna
+
+
+
+3
+Paper Title:
+Asymmetric Multi-Core Architectures
+11-12
+
+
+
+Authors
+Santosh Kumar Upadhyay
+
+
+
+4
+Paper Title:
+Cloud Cryptography to Ensure Security and Privacy in Cloud
+13-18
+
+
+
+Authors
+Jaishree Jain
+
+
+
+5
+Paper Title:
+The Implementation of GABASS in to Bank Data
+16-21
+
+
+
+Authors
+Pradeep Gupta, Jay Kant Pratap Singh
+
+
+
+6
+Paper Title:
+A Brief Introduction to SalesForce Technology
+22-23
+
+
+
+Authors
+Raghuraj Singh
+
+
+
+7
+Paper Title:
+Advance Cataloguing Method for the Microarray Breast Cancer Detection
+24-29
+
+
+
+Authors
+AnuradhaTaluja , Harish Kumar Taluja
+
+
+
+8
+Paper Title:
+Practices of Implementing Agile Procedures & DevOps Methodologies in the Development of Web Application
+30-32
+
+
+
+Authors
+Lakshita Sejwal, Kushagra
+
+
+
+9
+Paper Title:
+Heart Disease Prediction Using Data Mining Techniques
+33-35
+
+
+
+Authors
+Soniya Tiwari
+
+
+
+10
+Paper Title:
+A Survey on Sentiment Analysis
+36-38
+
+
+
+Authors
+Arti Pandey
+
+
+
+11
+Paper Title:
+BLOCKCHAIN TECHNOLOGY: AN INTRODUCTION
+39-43
+
+
+
+Authors
+Neerja Arora
+
+
+
+
+
+
+
+Editor-in-chief
+
+
+Dr. Rajesh PrasadProfessor, Computer Science and Engineering,Ajay Kumar Garg Engineering College, Ghaziabad, UP, India-201009Email: prasadrajesh@akgec.ac.inMobile No: +919667896459
+
+
+Publisher
+
+
+Department of Computer Science and Engineering, Ajay Kumar Garg Engineering College, 27th KM Milestone, Delhi – Meerut Expy,Ghaziabad-201009, Uttar PradeshEmail: info@akgec.ac.inMobile No: +917290034978
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+							27th Km Milestone,Delhi-Meerut Expressway,P.O. Adhyatmik Nagar,Ghaziabad - 201015
+						
+
+
+
+
+8744052891-937290034978
+						
+Admissions Enquiry: 1800-200-0777
+
+
+
+
+
+
+info@akgec.ac.in
+
+
+
+
+
+Quick Links :
+
+
+AKGIM-MBA Admission
+AKGIM-MBA
+AICTE Approval Letters
+NIRF Data for Ranking 2024
+Mandatory Disclosure
+Open Educational Resources (OER)
+Online Reporting of Ragging Cases
+Fee Fixation Letter
+Grievance Committee
+Internal Complaints Committee
+
+
+
+About AKGEC
+
+					Ajay Kumar Garg Engineering College (AKGEC) offers four year under graduate B.Tech course in all major engineering branches, two year post graduate M.Tech course in four engineering branches and two year post graduate MCA course.
+				
+
+
+
+
+Admission Enquiry Form
+ 
+
+ .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
